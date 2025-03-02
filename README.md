@@ -49,7 +49,7 @@ python lianliankan.py
 
 ## 游戏截图
 
-[在这里添加游戏截图]
+![游戏界面](https://github.com/user-attachments/assets/d8decd73-47b7-4f9e-a37a-a0528010056f)
 
 ## 文件结构
 
@@ -68,9 +68,6 @@ chiikawa-lianliankan/
     └── background.png
 ```
 
-## 许可证
-
-[选择合适的开源许可证]
 
 ## 致谢
 
